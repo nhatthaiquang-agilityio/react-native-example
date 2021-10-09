@@ -1,7 +1,7 @@
 # React Native Example
 Books store: useContext and useReducer
-+ Show Book list
-+ Add a Books into Cart List
++ Show Book List
++ Add a Book into Cart List
 + Show Cart List
 + Remove a Book from Cart List
 
